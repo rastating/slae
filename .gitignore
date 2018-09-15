@@ -1,0 +1,8 @@
+# Compiled Binaries
+*.out
+*.o
+
+# Files created by gdb
+.gdb_history
+*.gdb
+peda-session-*
